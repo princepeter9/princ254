@@ -1,1 +1,1 @@
-{"styles":{"riseFall":"c","allowEquals":"c","duration":"c","stake":"c","buy":"c"},"order":["chart","riseFall","allowEquals","stake","duration","buy"],"buy":{"pinned":true}}
+{"styles":{"buy":"c","stake":"c","duration":"c","riseFall":"c","allowEquals":"c"},"order":["chart","riseFall","allowEquals","stake","duration","buy"],"buy":{"pinned":true}}
